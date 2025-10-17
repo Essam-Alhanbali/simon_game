@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #011F3F;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 10vh ;
+    font-size: 4vw;
+    color: wheat;
+}
+
+.container {
+    width: 34vw;
+    margin-left: 33vw;
+    margin-top: 10vw;
+    display: block;
+    text-align: initial;
+}
+
+.btn {
+    display: inline-block;
+    width: 14vw;
+    height: 14vw;
+    background-color: red;
+    border: 0.7vw solid black;
+    border-radius: 20%;
+}
+
+.green {
+    background-color: green;
+    margin-right: 2vw;
+}
+
+.yellow {
+    background-color: yellow;
+    margin: 2vw 2vw 0 0;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
